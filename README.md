@@ -23,9 +23,8 @@
   - Python 3.8+, recommended packages: `pandas`, `numpy`, `matplotlib`, `seaborn`,... etc.
 - **How to Run**:
   1. Clone the repo
-  2. Install dependencies: `pip install -r requirements.txt`
-  3. Launch `notebooks/EDA_and_DataPrep.ipynb` in Jupyter or `VsCode` 
-  4. Follow notebooks in suggested order as for other program.
+  2. Launch `vanguard-ab-test.ipynb` in Jupyter or `VsCode` 
+  3. Follow notebooks in suggested order as for other program.
 
 ---
 
